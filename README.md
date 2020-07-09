@@ -1,5 +1,6 @@
 # PULSE-FIX
 Install Pulse connect in any Ubuntu based distro
+
 Pulse connect does currently offer support for some Ubuntu-based distributions, this small script lets you run it on your computer
 
 ## Configuration
